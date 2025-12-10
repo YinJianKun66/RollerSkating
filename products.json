@@ -7,8 +7,10 @@
       "image": "⛸",
       "desc": "",
       "link": "https://e.tb.cn/h.71jNayRQ1fjRYOM?tk=haqYfHkwWLy",
-      "thumbnail": null,
-      "images": [],
+      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765409274562_fjnvju.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765409274562_fjnvju.jpg"
+      ],
       "baseType": "碳纤底座",
       "purpose": "进阶"
     }

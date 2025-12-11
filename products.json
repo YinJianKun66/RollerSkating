@@ -163,6 +163,20 @@
       ],
       "baseType": "非碳纤底座",
       "purpose": "进阶"
+    },
+    {
+      "id": 12,
+      "name": "HV轮滑鞋美国队长款",
+      "price": 1214,
+      "image": "⛸",
+      "desc": "",
+      "link": "https://e.tb.cn/h.71qxrhB2pqYGwYw?tk=lZo4fHIGRZT",
+      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765427845019_wmzbqu.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765427845019_wmzbqu.jpg"
+      ],
+      "baseType": "非碳纤底座",
+      "purpose": "进阶"
     }
   ],
   "护具": [],

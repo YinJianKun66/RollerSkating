@@ -7,8 +7,10 @@
       "image": "⛸",
       "desc": "",
       "link": "https://e.tb.cn/h.71jNayRQ1fjRYOM?tk=haqYfHkwWLy",
-      "thumbnail": null,
-      "images": [],
+      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765424431434_asf6dj.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765424431434_asf6dj.jpg"
+      ],
       "baseType": "碳纤底座",
       "purpose": "进阶"
     }
@@ -29,8 +31,10 @@
       "image": "🎗",
       "desc": "",
       "link": "111",
-      "thumbnail": null,
-      "images": [],
+      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/配件/鞋带/1765424436096_b8fxe7.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/配件/鞋带/1765424436096_b8fxe7.jpg"
+      ],
       "baseType": "碳纤底座",
       "purpose": "进阶"
     }

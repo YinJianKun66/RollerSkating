@@ -191,6 +191,20 @@
       ],
       "baseType": "碳纤底座",
       "purpose": "进阶"
+    },
+    {
+      "id": 14,
+      "name": "乐秀RX5轮滑鞋",
+      "price": 309,
+      "image": "⛸",
+      "desc": "",
+      "link": "https://e.tb.cn/h.71859aZVgtnU5w5?tk=WNeOfHsQYjn",
+      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765428873189_n80kn4.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765428873189_n80kn4.jpg"
+      ],
+      "baseType": "非碳纤底座",
+      "purpose": "新手"
     }
   ],
   "护具": [

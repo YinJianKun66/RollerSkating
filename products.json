@@ -175,24 +175,6 @@
       "purpose": "进阶"
     },
     {
-      "id": 7,
-      "name": "Trix十周年轮滑鞋",
-      "price": 1663,
-      "image": "⛸",
-      "desc": "",
-      "link": "https://e.tb.cn/h.71qbZ5qq5ADFCc8?tk=9dpffHrC1rC",
-      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_w8rh2r.jpg",
-      "images": [
-        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_w8rh2r.jpg",
-        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_w2sksb.jpg",
-        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_meoy28.jpg",
-        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_p1jb5p.jpg",
-        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_8a0jav.jpg"
-      ],
-      "baseType": "碳纤底座",
-      "purpose": "进阶"
-    },
-    {
       "id": 14,
       "name": "乐秀RX5轮滑鞋",
       "price": 309,
@@ -205,6 +187,24 @@
       ],
       "baseType": "非碳纤底座",
       "purpose": "新手"
+    },
+    {
+      "id": 7,
+      "name": "Trix十周年轮滑鞋",
+      "price": 1663,
+      "image": "⛸",
+      "desc": "Trix 十周年纪念款是一双带着“时代印记”的轮滑鞋。它延续了 Trix 系列轻量、灵活、响应快的特点，同时在结构细节上做得更成熟：外壳韧性更均衡，鞋身支撑力更稳定，转体和压弯时能明显感到那种“跟脚、不拖泥带水”的爽快。鞋面依旧是 Trix 标志性的三点锁紧结构，让整鞋贴合度更高，尤其在绕桩和细节控技里，动作会变得更干净。十周年版在配色与做工上更讲究，属于上手就能感觉到的那种质感提升，不浮夸、但很耐看。对熟练滑手来说，它是一双足够信赖、能陪你磨技术的鞋；对收藏党来说，它也算得上是 Trix 系列发展路上的一个小里程碑。",
+      "link": "https://e.tb.cn/h.71qbZ5qq5ADFCc8?tk=9dpffHrC1rC",
+      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_w8rh2r.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_w8rh2r.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_w2sksb.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_meoy28.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_p1jb5p.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_8a0jav.jpg"
+      ],
+      "baseType": "碳纤底座",
+      "purpose": "进阶"
     }
   ],
   "护具": [

@@ -264,6 +264,21 @@
   "Cuff": [],
   "蘑菇钉": [],
   "除锈剂": [],
-  "扳手": [],
+  "扳手": [
+    {
+      "id": 1301,
+      "name": "T型扳手内六角",
+      "price": 23,
+      "image": "🔧",
+      "desc": "",
+      "link": "https://e.tb.cn/h.71Jysl8oDdKvdeD?tk=vG7ffHsFpB1",
+      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/工具/扳手/1765429392734_5v105g.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/工具/扳手/1765429392734_5v105g.jpg"
+      ],
+      "baseType": "非碳纤底座",
+      "purpose": "新手"
+    }
+  ],
   "轴承取出器": []
 }

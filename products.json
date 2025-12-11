@@ -83,6 +83,64 @@
       ],
       "baseType": "碳纤底座",
       "purpose": "进阶"
+    },
+    {
+      "id": 7,
+      "name": "Trix十周年",
+      "price": 1663,
+      "image": "⛸",
+      "desc": "",
+      "link": "https://e.tb.cn/h.71qbZ5qq5ADFCc8?tk=9dpffHrC1rC",
+      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_w2sksb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_w2sksb.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_meoy28.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_p1jb5p.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_w8rh2r.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_8a0jav.jpg"
+      ],
+      "baseType": "碳纤底座",
+      "purpose": "进阶"
+    },
+    {
+      "id": 8,
+      "name": "HVG轮滑鞋红色蓝色",
+      "price": 923,
+      "image": "⛸",
+      "desc": "",
+      "link": "https://e.tb.cn/h.7Yz6HRbQDBk53iq?tk=2is8fHI2uyz",
+      "thumbnail": null,
+      "images": [],
+      "baseType": "非碳纤底座",
+      "purpose": "进阶"
+    },
+    {
+      "id": 9,
+      "name": "费斯YJS",
+      "price": 1566,
+      "image": "⛸",
+      "desc": "",
+      "link": "https://e.tb.cn/h.7cOC51vXi7TqwZw?tk=oa1ifHITzP6",
+      "thumbnail": null,
+      "images": [],
+      "baseType": "碳纤底座",
+      "purpose": "进阶"
+    },
+    {
+      "id": 10,
+      "name": "HV轮滑鞋银蓝银黑",
+      "price": 1144,
+      "image": "⛸",
+      "desc": "",
+      "link": "https://e.tb.cn/h.71qPbftDDLsEWaZ?tk=JmnDfHI7Emu",
+      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765427315201_wucctn.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765427315201_wucctn.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765427315201_1z12jv.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765427315201_yx4vey.jpg"
+      ],
+      "baseType": "非碳纤底座",
+      "purpose": "进阶"
     }
   ],
   "护具": [],

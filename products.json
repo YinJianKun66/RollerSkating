@@ -280,5 +280,21 @@
       "purpose": "新手"
     }
   ],
-  "轴承取出器": []
+  "轴承取出器": [
+    {
+      "id": 1401,
+      "name": "轮滑专用轴承取出器",
+      "price": 20,
+      "image": "🔨",
+      "desc": "",
+      "link": "https://e.tb.cn/h.71a32kH3SDf8PAH?tk=rcoHfHsBt2q",
+      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/工具/轴承取出器/1765429713566_r4gf4b.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/工具/轴承取出器/1765429713566_r4gf4b.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/工具/轴承取出器/1765429713566_29zifq.jpg"
+      ],
+      "baseType": "非碳纤底座",
+      "purpose": "新手"
+    }
+  ]
 }

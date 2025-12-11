@@ -117,24 +117,6 @@
       "purpose": "进阶"
     },
     {
-      "id": 7,
-      "name": "Trix十周年轮滑鞋",
-      "price": 1663,
-      "image": "⛸",
-      "desc": "",
-      "link": "https://e.tb.cn/h.71qbZ5qq5ADFCc8?tk=9dpffHrC1rC",
-      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_w2sksb.jpg",
-      "images": [
-        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_w2sksb.jpg",
-        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_meoy28.jpg",
-        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_p1jb5p.jpg",
-        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_w8rh2r.jpg",
-        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_8a0jav.jpg"
-      ],
-      "baseType": "碳纤底座",
-      "purpose": "进阶"
-    },
-    {
       "id": 9,
       "name": "费斯YJS轮滑鞋",
       "price": 1566,
@@ -190,6 +172,24 @@
         "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765427937117_8hl7gz.jpg"
       ],
       "baseType": "非碳纤底座",
+      "purpose": "进阶"
+    },
+    {
+      "id": 7,
+      "name": "Trix十周年轮滑鞋",
+      "price": 1663,
+      "image": "⛸",
+      "desc": "",
+      "link": "https://e.tb.cn/h.71qbZ5qq5ADFCc8?tk=9dpffHrC1rC",
+      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_w8rh2r.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_w8rh2r.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_w2sksb.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_meoy28.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_p1jb5p.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765426581614_8a0jav.jpg"
+      ],
+      "baseType": "碳纤底座",
       "purpose": "进阶"
     }
   ],

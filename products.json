@@ -177,6 +177,20 @@
       ],
       "baseType": "非碳纤底座",
       "purpose": "进阶"
+    },
+    {
+      "id": 13,
+      "name": "HV轮滑鞋李小龙版",
+      "price": 1056,
+      "image": "⛸",
+      "desc": "",
+      "link": "https://e.tb.cn/h.71RIilszp5v8usf?tk=s6ANfHIw6FF",
+      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765427937117_8hl7gz.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765427937117_8hl7gz.jpg"
+      ],
+      "baseType": "非碳纤底座",
+      "purpose": "进阶"
     }
   ],
   "护具": [],

@@ -103,18 +103,6 @@
       "purpose": "进阶"
     },
     {
-      "id": 8,
-      "name": "HVG轮滑鞋红色蓝色",
-      "price": 923,
-      "image": "⛸",
-      "desc": "",
-      "link": "https://e.tb.cn/h.7Yz6HRbQDBk53iq?tk=2is8fHI2uyz",
-      "thumbnail": null,
-      "images": [],
-      "baseType": "非碳纤底座",
-      "purpose": "进阶"
-    },
-    {
       "id": 10,
       "name": "HV轮滑鞋银蓝银黑",
       "price": 1144,
@@ -144,6 +132,22 @@
         "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765427386591_g05fkg.jpg"
       ],
       "baseType": "碳纤底座",
+      "purpose": "进阶"
+    },
+    {
+      "id": 8,
+      "name": "HVG轮滑鞋红色蓝色",
+      "price": 923,
+      "image": "⛸",
+      "desc": "",
+      "link": "https://e.tb.cn/h.7Yz6HRbQDBk53iq?tk=2is8fHI2uyz",
+      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765427433020_aepuil.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765427433020_aepuil.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765427433020_p03i7e.jpg",
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/轮滑鞋/1765427433020_vofvu3.jpg"
+      ],
+      "baseType": "非碳纤底座",
       "purpose": "进阶"
     }
   ],

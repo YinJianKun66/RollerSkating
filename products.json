@@ -23,7 +23,22 @@
   "底钉": [],
   "飞碟": [],
   "轮子": [],
-  "鞋带": [],
+  "鞋带": [
+    {
+      "id": 901,
+      "name": "测试",
+      "price": 999,
+      "image": "🎗",
+      "desc": "",
+      "link": "111",
+      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/配件/鞋带/1765420626423_bkatn3.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/配件/鞋带/1765420626423_bkatn3.jpg"
+      ],
+      "baseType": "碳纤底座",
+      "purpose": "进阶"
+    }
+  ],
   "Cuff": [],
   "蘑菇钉": [],
   "除锈剂": [],

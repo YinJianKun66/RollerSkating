@@ -238,22 +238,7 @@
       "purpose": "进阶"
     }
   ],
-  "周边": [
-    {
-      "id": 201,
-      "name": "圣巴轮滑T恤",
-      "price": 60,
-      "image": "🎒",
-      "desc": "",
-      "link": "https://e.tb.cn/h.7cNfKF7OQRH2Vhk?tk=uiWJfHso80i",
-      "thumbnail": "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/周边/1765429145692_vp8c9r.jpg",
-      "images": [
-        "https://raw.githubusercontent.com/YinJianKun66/RollerSkating/main/images/周边/1765429145692_vp8c9r.jpg"
-      ],
-      "baseType": "非碳纤底座",
-      "purpose": "新手"
-    }
-  ],
+  "周边": [],
   "轴承": [],
   "刀架": [],
   "穿钉": [],
